@@ -1,0 +1,16 @@
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project2-ConvexHull\ConvexHull\convex-hull\obj\Debug\01-convex-hull.exe
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project2-ConvexHull\ConvexHull\convex-hull\obj\Debug\01-convex-hull.pdb
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project2-ConvexHull\ConvexHull\convex-hull\bin\Debug\01-convex-hull.exe
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project2-ConvexHull\ConvexHull\convex-hull\bin\Debug\01-convex-hull.pdb
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project2-ConvexHull\ConvexHull\convex-hull\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project2-ConvexHull\ConvexHull\convex-hull\obj\Debug\_2_convex_hull.FormMain.resources
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project2-ConvexHull\ConvexHull\convex-hull\obj\Debug\_1_convex_hull.Properties.Resources.resources
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project2-ConvexHull\ConvexHull\convex-hull\obj\Debug\convex-hull.csproj.GenerateResource.Cache
+C:\Users\dnorth2\workspace\ConvexHull\convex-hull\obj\Debug\01-convex-hull.exe
+C:\Users\dnorth2\workspace\ConvexHull\convex-hull\obj\Debug\01-convex-hull.pdb
+C:\Users\dnorth2\workspace\ConvexHull\convex-hull\bin\Debug\01-convex-hull.exe
+C:\Users\dnorth2\workspace\ConvexHull\convex-hull\bin\Debug\01-convex-hull.pdb
+C:\Users\dnorth2\workspace\ConvexHull\convex-hull\obj\Debug\convex-hull.csprojResolveAssemblyReference.cache
+C:\Users\dnorth2\workspace\ConvexHull\convex-hull\obj\Debug\_2_convex_hull.FormMain.resources
+C:\Users\dnorth2\workspace\ConvexHull\convex-hull\obj\Debug\_1_convex_hull.Properties.Resources.resources
+C:\Users\dnorth2\workspace\ConvexHull\convex-hull\obj\Debug\convex-hull.csproj.GenerateResource.Cache
